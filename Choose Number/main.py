@@ -32,6 +32,7 @@ def quitGame():
     time.sleep(1)
     print('1...')
     time.sleep(1)
+    exit()
 
 def endgame():
     print('\n1 - Play again\n2 - Quit\n')
